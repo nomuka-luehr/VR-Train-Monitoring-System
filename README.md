@@ -1,5 +1,5 @@
 # VR-Drone-Train-Monitoring-System
-A visual recognition track monitoring system that evaluates track safety conditions from videographic data obtained via drones
+**A visual recognition track monitoring system that evaluates track safety conditions from data obtained via drones**
 
 **Winner of Judge's Choice for IBM Jumpstart Tech Challenge**
 
