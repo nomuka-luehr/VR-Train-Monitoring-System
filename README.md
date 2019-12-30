@@ -5,7 +5,7 @@
 
 ![P1060019](https://user-images.githubusercontent.com/58711394/71569877-e1c52780-2a86-11ea-8410-095586b506ad.JPG)
 
-**Included:** App demo, White Paper for potential clients, and Final Presentatio Deck
+**Included:** App demo & White Paper for potential clients
 
 **Using App Demo:** 1) Download & Unzip 2) Navigate to src/App.js in command line 3) npm install --save 4) npm start to launch app
 
